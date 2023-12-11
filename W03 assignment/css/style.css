@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+    background-color: aliceblue;
+}
+
+body {
+    margin: 0;
+}
+
+canvas {
+    display: block;
+}
+
+#container-p5 {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
